@@ -1,1 +1,49 @@
+body {		
+	background-color: #FFFFFF ;  
+	font-family: Verdana, Arial; 
+	font-size: 12px; 		
+	 }
 
+h1{ 
+	font-family: Arial, 
+	font-size: 2em;		
+	color: 
+	} 
+	
+h2 { 
+	font-family: Arial, "sans serif";
+	font-size: 2em;	
+	color: 009900; 
+	}
+	
+
+a:link {
+	font-family: Arial, "sans serif";
+	font-size: 1.10em;	
+	color: #000000;
+	text-decoration: none;
+	}
+a:hover {					
+	font-family: Arial, "sans serif";
+	font-size: 1.10em;	
+	color: #FF10D9;			
+	text-decoration: none;		
+	}
+a:visited   { 
+	font-family: "Arial Black", "sans serif";
+	font-size: 0.75em;				
+	color: #DDDDDD;				
+	text-decoration: line-through; 
+	}
+
+
+p{
+	text-align: right;
+	color: #009900;		
+	font-size:1.50em; 
+	font-family: "Times New Roman", serif;
+	}
+		
+
+		
+	
