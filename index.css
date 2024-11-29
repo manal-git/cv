@@ -7,13 +7,13 @@ body {
 h1{ 
 	font-family: Arial, 
 	font-size: 2em;		
-	color: 
-	} 
-	
+	color: #154c8a; 
+	}
+
 h2 { 
 	font-family: Arial, "sans serif";
 	font-size: 2em;	
-	color: 009900; 
+	color: #154c8a; 
 	}
 	
 
@@ -39,11 +39,9 @@ a:visited   {
 
 p{
 	text-align: right;
-	color: #009900;		
+	color: #0f0d27;		
 	font-size:1.50em; 
 	font-family: "Times New Roman", serif;
 	}
-		
-
 		
 	
