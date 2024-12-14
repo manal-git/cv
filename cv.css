@@ -1,47 +1,99 @@
-body {		
-	background-color: #FFFFFF ;  
-	font-family: Verdana, Arial; 
-	font-size: 12px; 		
-	 }
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
 
-h1{ 
-	font-family: Arial, 
-	font-size: 2em;		
-	color: #154c8a; 
-	}
+h1, h2, h3 {
+    color: #444;
+    text-align: left;
+    margin-bottom: 10px;
+}
 
-h2 { 
-	font-family: Arial, "sans serif";
-	font-size: 2em;	
-	color: #154c8a; 
-	}
-	
+h1 {
+    font-size: 2em;
+    color: #222;
+}
 
-a:link {
-	font-family: Arial, "sans serif";
-	font-size: 1.10em;	
-	color: #000000;
-	text-decoration: none;
-	}
-a:hover {					
-	font-family: Arial, "sans serif";
-	font-size: 1.10em;	
-	color: #FF10D9;			
-	text-decoration: none;		
-	}
-a:visited   { 
-	font-family: "Arial Black", "sans serif";
-	font-size: 0.75em;				
-	color: #DDDDDD;				
-	text-decoration: line-through; 
-	}
+h2 {
+    font-size: 1.5em;
+    color: #555;
+}
+
+h3 {
+    font-size: 1.2em;
+    color: #666;
+}
+
+p {
+    margin-bottom: 15px;
+}
+
+ul, ol {
+    margin: 0 0 15px 20px;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+/* Image Styles */
+img {
+    border-radius: 10px;
+    display: block;
+    margin: 0 auto 15px auto;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Header Styles */
+h1:first-of-type {
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Section Styles */
+section {
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 800px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Lists and Formatting */
+ol {
+    list-style-type: decimal;
+}
+
+ul {
+    list-style-type: square;
+}
+
+ul li {
+    margin-bottom: 8px;
+}
+
+/* Highlight Specific Sections */
+section h1 {
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+}
+
+/* Footer Styles */
+footer {
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #222;
+    color: #fff;
+}
 
 
-p{
-	text-align: right;
-	color: #0f0d27;		
-	font-size:1.50em; 
-	font-family: "Times New Roman", serif;
-	}
-		
-	
+
