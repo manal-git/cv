@@ -1,9 +1,7 @@
 /* General Styles */
 body {
-    font-family: Arial, sans-serif;
+    font-family: Arial, serif;
     line-height: 1.6;
-    margin: 0;
-    padding: 0;
     background-color: #f4f4f9;
     color: #333;
 }
@@ -12,7 +10,6 @@ body {
 h1, h2, h3 {
     color: #444;
     text-align: left;
-    margin-bottom: 10px;
 }
 
 h1 {
@@ -34,19 +31,9 @@ p {
     margin-bottom: 15px;
 }
 
-ul, ol {
-    margin: 0 0 15px 20px;
-    padding: 0;
-}
 
-li {
-    margin-bottom: 5px;
-}
-
-/* Image Styles */
 img {
     border-radius: 10px;
-    display: block;
     margin: 0 auto 15px auto;
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
 }
