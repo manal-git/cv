@@ -6,27 +6,8 @@ body {
     padding: 0;
     background-color: #f4f4f9;
     color: #333;
-    display: flex;
-    flex-direction: row;
 }
 
-/* Sidebar Section Styles */
-section.sidebar {
-    width: 30%;
-    background-color: #ffc0cb; /* Pink background */
-    padding: 20px;
-    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
-    min-height: 100vh;
-}
-
-/* Main Content Styles */
-section.main-content {
-    width: 70%;
-    padding: 20px;
-    background-color: #fff;
-    border-radius: 8px;
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
-}
 
 h1, h2, h3 {
     color: #444;
@@ -70,24 +51,6 @@ img {
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-/* Header Styles */
-h1:first-of-type {
-    text-align: center;
-    margin-top: 20px;
-}
-
-/* Lists and Formatting */
-ol {
-    list-style-type: decimal;
-}
-
-ul {
-    list-style-type: square;
-}
-
-ul li {
-    margin-bottom: 8px;
-}
 
 
 
