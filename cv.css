@@ -38,7 +38,7 @@ img {
 
 div.moitier { 
   float: left;	
-  width: 49%;		
+  width: 45%;		
   text-align: left;
   border: 1px dotted red;
 }
@@ -56,4 +56,9 @@ div.entier {
   width: 99%;		
 }
 
-
+h1.centre{
+  text-align: center;
+}
+p.center{
+  text-align: center;
+}
