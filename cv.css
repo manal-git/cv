@@ -40,14 +40,14 @@ div.moitier {
   float: left;	
   width: 45%;		
   text-align: left;
-  border: 1px dotted red;
+
 }
 
 div.tiers {
   float: left;		
   width: 32%;		
   text-align: left;
-  border: 1px dotted rgb(14, 233, 233);
+
 }
 
 div.entier { 
@@ -56,7 +56,7 @@ div.entier {
   width: 99%;		
 }
 
-h1.centre{
+h1.center{
   text-align: center;
 }
 p.center{
