@@ -45,6 +45,7 @@ div.entier {
   float: left;		
   width: 99%;		
   background-color: #ffffff;
+  padding: 2px;
 }
 
 .center{
