@@ -28,15 +28,14 @@ div.moitier {
   float: left;	
   width: 45%;		
   text-align: left;
-
-
+  box-shadow: #333333;
 }
 
 div.tiers {
   float: left;		
   width: 20%;		
   text-align: left;
-
+  box-shadow: #333333;
 }
 
 div.entier { 
@@ -45,6 +44,7 @@ div.entier {
   width: 99%;		
   background-color: #ffffff;
   padding: 2px;
+  box-shadow: #333333;
 }
 
 .center{
